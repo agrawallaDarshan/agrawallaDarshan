@@ -45,27 +45,15 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
-
----
-
-
----
-
-
----
 
 <details>
-  <summary>GitHub Stats</summary>
-
-  <img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agrawallaDarshan&show_icons=true&hide_border=true" />
+  <img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agrawallaDarshan&show_icons=true&hide_border=true"/>
 
 </details>
 
 <details>
-  <summary> GitHub Language Stats</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawallaDarshan)](https://github.com/agrawallaDarshan/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawallaDarshan&layout=compact)](https://github.com/agrawallaDarshan/github-readme-stats)
 
 </details>
 
