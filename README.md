@@ -75,6 +75,15 @@
 
 </details>
 
+<details>
+  <summary>:zap: GitHub Language Stats</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawallaDarshan)](https://github.com/agrawallaDarshan/github-readme-stats)
+
+</details>
+
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
