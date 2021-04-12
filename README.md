@@ -34,10 +34,6 @@
   <img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agrawallaDarshan&show_icons=true&hide_border=true"/>
 
 <br>
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawallaDarshan&layout=compact)](https://github.com/agrawallaDarshan/github-readme-stats)
-
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalladarshan&show_icons=true&locale=en&layout=compact" alt="agrawalladarshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalladarshan&" alt="agrawalladarshan" /></p>
