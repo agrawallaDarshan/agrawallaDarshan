@@ -7,16 +7,12 @@
 
 
 - 💡 I joined GitHub to explore, learn and grow
-<br>
 - 🌱 I’m currently learning everything 😂
-<br>
 - 👯 I’m looking to collaborate with other web developers
-<br>
 - 🎯 My Goal: Make life easier by coding and developing
-<br>
 - ⚡ My Hobbies: Travel, Karate and cricket
-<br>
-- 📫 How to reach me **darshanagrawallaabc01@gmail.com**
+- 
+- 📫 How to reach me *darshanagrawallaabc01@gmail.com*
 
 ### Spotify Playing 🎧
 
