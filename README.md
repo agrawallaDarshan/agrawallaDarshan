@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other web developers
 - 🎯 My Goal: Make life easier by coding and developing
-- ⚡ My Hobbies: Travel, Karate and cricket
+- ⚡ My Hobbies: Travel, Karate and Cricket
 - 📫 How to reach me *darshanagrawallaabc01@gmail.com*
 
 ### Spotify Playing 🎧
