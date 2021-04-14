@@ -8,7 +8,7 @@
 
 - 💡 I joined GitHub to explore, learn and grow
 - 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate on [https://github.com/agrawallaDarshan/chatnow.git]
+- 👯 I’m looking to collaborate on *https://github.com/agrawallaDarshan/chatnow.git*
 - 🎯 My Goal: Make life easier by coding and developing
 - ⚡ My Hobbies: Travel, karate and cricket
 - 📫 How to reach me *darshanagrawallaabc01@gmail.com*
