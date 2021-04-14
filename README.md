@@ -1,4 +1,4 @@
-### Hi there, I'm Darshan - aka "agrawallaDarshan" 👋
+### Hi there, I'm Darshan 👋
 
 
 ## I'm a Student, Developer, Designer and Explorer!!
@@ -8,9 +8,9 @@
 
 - 💡 I joined GitHub to explore, learn and grow
 - 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate with other web developers
+- 👯 I’m looking to collaborate on [https://github.com/agrawallaDarshan/chatnow.git]
 - 🎯 My Goal: Make life easier by coding and developing
-- ⚡ My Hobbies: Travel, Karate and Cricket
+- ⚡ My Hobbies: Travel, karate and cricket
 - 📫 How to reach me *darshanagrawallaabc01@gmail.com*
 
 ### Spotify Playing 🎧
