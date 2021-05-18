@@ -1,16 +1,13 @@
 ### Hi there, I'm Darshan 👋
 
 
-## I'm a Student, Developer, Designer and Explorer!!
+## I'm a Student!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalladarshan&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalladarshan" /> </p>
-
 
 - 💡 I joined GitHub to explore, learn and grow
 - 🌱 I’m currently learning everything 😂
 - 🎯 My Goal: Make life easier by coding and developing
-- ⚡ My Hobbies: Travel, karate and cricket
-- 📫 How to reach me *darshanagrawallaabc01@gmail.com*
 
 <!-- ### Spotify Playing 🎧 -->
 
