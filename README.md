@@ -8,6 +8,7 @@
 - 💡 I joined GitHub to explore, learn and grow
 - 🌱 I’m currently learning everything 😂
 - 🎯 My Goal: Make life easier by coding and developing
+- 🌐 My personal website <a href="https://agrawalladarshan.github.io/My-personal-website/" target="blank">agrawallaDarshan.github.io</a>
 
 <!-- ### Spotify Playing 🎧 -->
 
