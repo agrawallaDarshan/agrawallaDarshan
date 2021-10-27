@@ -24,6 +24,9 @@
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee agrawallaDarshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee agrwalladA" /></a></p><br><br> -->
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawallaDarshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
 
 <br>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalladarshan&show_icons=true&locale=en&layout=compact" alt="agrawalladarshan" /></p>
